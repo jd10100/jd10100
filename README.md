@@ -43,6 +43,6 @@ I am a passionate engineer with expertise in Electronics and Telecommunication E
    - 🎯 **Impact:** Achieved 87% accuracy.
 
 ## Contact Me 📧
-- **GitHub:** [jd10100](https://github.com/jd10100) 🌟 [[4](https://www.sitepoint.com/github-profile-readme/)]
-- **LinkedIn:** [Jaydeep Pharate](https://www.linkedin.com/in/jaydeep-pharate-a9a8a31a3/) 🌐 [[6](https://collegedunia.com/college/13549-genba-sopanrao-moze-college-of-engineering-balewadi-pune)]
+- **GitHub:** [jd10100](https://github.com/jd10100) 🌟 [(https://www.sitepoint.com/github-profile-readme/)]
+- **LinkedIn:** [Jaydeep Pharate](https://www.linkedin.com/in/jaydeep-pharate-a9a8a31a3/) 🌐 [(https://collegedunia.com/college/13549-genba-sopanrao-moze-college-of-engineering-balewadi-pune)]
 - **Email:** jaydeep10100@gmail.com ✉️
