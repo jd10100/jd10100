@@ -1,46 +1,44 @@
 # Jaydeep Pharate ✨
 
 ## About Me ℹ️
-I am a passionate engineer with expertise in Electronics and Telecommunication Engineering. My educational background includes a Bachelor of Engineering (BE) from Genba Sopanrao Moze College Of Engineering, Pune, Maharashtra, and a Diploma in Electronics and Telecommunication Engineering from Pimpri Chinchwad Polytechnic College, Pimpri-Chinchwad, Maharashtra.
+👋 Hi, I’m Jaydeep Pharate
+
+🚀 Azure Data Engineer | 3+ Years Experience
+
+I’m a results-driven Data Engineer with over 3 years of hands-on experience designing, building, and optimizing scalable data pipelines and analytics solutions on Microsoft Azure. I enjoy turning raw data into reliable, high-quality datasets that power business insights and decision-making.
 
 ## Skills 💡
-- 💻 **Programming Languages:** Python, Java, C, C++
-- 🤖 **Machine Learning:** Algorithms, Predictive Modeling
-- 📊 **Statistical Analysis:** Data Analysis, Inference
-- 🖥️ **Software Development:** Object-oriented Programming, Design Patterns
-- 🗃️ **Database Management:** SQL, NoSQL, Data Warehousing
-- 📈 **Data Visualization:** Matplotlib, Seaborn, Tableau
-- 🔄 **Version Control:** Git
-- 🧩 **Problem-Solving:** Analytical skills
-- 🧹 **Data Wrangling:** Cleaning, Preprocessing
+Cloud: Microsoft Azure
 
-## Areas of Expertise (BE ENTC) 🛠️
-- 🛰️ Electronics Engineering
-- 📡 Telecommunication Systems
-- 🎛️ Signal Processing
-- 🛠️ Analog and Digital Circuit Design
-- 💻 Embedded Systems
-- 🤖 Microcontrollers
-- 📡 Wireless Communication
-- 📶 Antenna Design
-- 📡 RF Engineering
-- 🖥️ PCB Design
-- 🌐 Network Analysis
-- 🎚️ Control Systems
-- 🌐 Microwave Engineering
-- 🌐 Optical Communication
+Data Engineering: Azure Data Factory, Azure Databricks
 
-## Projects 🚀
-1. **Wind Speed Monitoring System For Sailing**
-   - 🛥️ **Platform:** Arduino Uno, ThingSpeak server
-   - 🌬️ **Description:** Measures wind speed and air temperature for water sports.
-2. **Gesture Remote Control Car**
-   - 🚗 **Platform:** Embedded C
-   - 👋 **Description:** Controls a car using hand gestures.
-3. **Health Insurance Cost Prediction**
-   - 💰 **Objective:** Predicts health insurance costs based on user information.
-   - 🧮 **Tools:** Python, Machine Learning (Random Forest Regressor, GradientBoostingRegressor)
-   - 🎯 **Impact:** Achieved 87% accuracy.
+Big Data: PySpark, Spark SQL
+
+Languages: Python, SQL
+
+Databases: Azure SQL, Synapse Analytics
+
+Data Sources: REST APIs, RDBMS, Flat Files, Cloud Storage
+
+Version Control: Git, GitHub
+
+## WHAT I DO
+Build and orchestrate end-to-end ETL/ELT pipelines
+
+Process large-scale data using PySpark on Databricks
+
+Design efficient data models and transformations
+
+Optimize pipelines for performance, cost, and reliability
+
+Collaborate with cross-functional teams to deliver data solutions
+
+## CURRENTLY
+Improving skills in advanced PySpark & Azure architecture
+
+Working on real-world Azure data engineering projects
+
+Actively looking for opportunities to solve data at scale
 
 ## Contact Me 📧
 - **GitHub:** [jd10100](https://github.com/jd10100) 🌟 [[](https://www.sitepoint.com/github-profile-readme/)]
